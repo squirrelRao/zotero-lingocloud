@@ -7,6 +7,8 @@
 
 # 彩云小译Zotero插件
 
+最新版本下载：<a href="https://github.com/squirrelRao/zotero-lingocloud/releases">Zotero小译插件</a>
+
 ### 使用说明
 1. 在Zotero首选项面板 - 彩云小译面板， 填入彩云小译个人账户ID
    
