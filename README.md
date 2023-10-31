@@ -2,7 +2,7 @@
   <img src="https://fanyi.caiyunapp.com/assets/logo-website.b22a406f.png" width=240 />
 </p>
 <p align="center">
-	<a href="https://github.com/qnscholar/zotero-if/releases"><img src="https://img.shields.io/github/v/release/qnscholar/zotero-if?color=blue&logo=github" alt="GitHub release" />
+	<a href="[https://github.com/qnscholar/zotero-if/releases](https://github.com/squirrelRao/zotero-lingocloud/releases)"><img src="https://img.shields.io/github/v/release/qnscholar/zotero-if?color=blue&logo=github" alt="GitHub release" />
 </p>
 
 # Zotero IF
