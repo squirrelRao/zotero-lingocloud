@@ -20,10 +20,8 @@
 
  <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/33eeaf16-ffc9-4429-aaa2-763299086c02" width="500">
 
-
 ### 安装说明
 Zotero附件组件页选择小译插件安装文件lingocloud_translate.xpi 即可
-
 <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/afe76059-36aa-4a69-9c4f-084df81910d2" width="500">
 
 <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/99d58e84-3144-41c3-be3b-5eaf85ab8bdd" width="500">
