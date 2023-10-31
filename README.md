@@ -1,6 +1,5 @@
 <p align="center">
- <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/edf7172c-0110-4405-925b-18ba4eed9a74" width="108">
-
+ <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/17cf739f-00b1-44a5-82a1-4dafff9aef09" width="256">
 </p>
 <p align="center">
 	<a href="[https://github.com/qnscholar/zotero-if/releases](https://github.com/squirrelRao/zotero-lingocloud/releases)">
