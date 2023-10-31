@@ -9,12 +9,15 @@
 
 ### 使用说明
 1. 在Zotero首选项面板 - 彩云小译面板， 填入彩云小译个人账户ID
+   
  <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/18d70e35-fe1a-4684-92e9-7714ed21ab7e" width="500">
 
 2.点击「应用」按钮后激活小译翻译功能
+
  <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/d8813beb-d17a-46aa-91e8-757f2884c525" width="500">
 
 3.打开PDF文献，鼠标划取内容自动进行翻译
+
  <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/33eeaf16-ffc9-4429-aaa2-763299086c02" width="500">
 
 
