@@ -12,18 +12,16 @@
  <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/18d70e35-fe1a-4684-92e9-7714ed21ab7e" width="500">
 
 2.点击「应用」按钮后激活小译翻译功能
-![image](https://github.com/squirrelRao/zotero-lingocloud/assets/528419/d8813beb-d17a-46aa-91e8-757f2884c525)
+ <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/d8813beb-d17a-46aa-91e8-757f2884c525" width="500">
 
 3.打开PDF文献，鼠标划取内容自动进行翻译
-![image](https://github.com/squirrelRao/zotero-lingocloud/assets/528419/33eeaf16-ffc9-4429-aaa2-763299086c02)
+ <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/33eeaf16-ffc9-4429-aaa2-763299086c02" width="500">
 
 
 ### 安装说明
 Zotero附件组件页选择小译插件安装文件lingocloud_translate.xpi 即可
-   ![image](https://github.com/squirrelRao/zotero-lingocloud/assets/528419/afe76059-36aa-4a69-9c4f-084df81910d2)
-
-   ![image](https://github.com/squirrelRao/zotero-lingocloud/assets/528419/99d58e84-3144-41c3-be3b-5eaf85ab8bdd)
-
+ <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/afe76059-36aa-4a69-9c4f-084df81910d2" width="500">
+ <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/99d58e84-3144-41c3-be3b-5eaf85ab8bdd" width="500">
 
 
 ### 说明
