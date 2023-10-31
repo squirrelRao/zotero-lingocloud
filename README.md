@@ -1,5 +1,5 @@
 <p align="center">
- ![彩云小译LOGO_108x108](https://github.com/squirrelRao/zotero-lingocloud/assets/528419/edf7172c-0110-4405-925b-18ba4eed9a74)
+ <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/edf7172c-0110-4405-925b-18ba4eed9a74" width="500">
 
 </p>
 <p align="center">
