@@ -5,7 +5,7 @@
 	<a href="[https://github.com/qnscholar/zotero-if/releases](https://github.com/squirrelRao/zotero-lingocloud/releases)">
 </p>
 
-# 彩云小译Zotero插件
+# 彩云小译Zotero-PDF翻译插件
 
 最新版本下载：<a href="https://github.com/squirrelRao/zotero-lingocloud/releases">Zotero小译插件</a>
 
