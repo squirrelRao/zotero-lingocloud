@@ -5,12 +5,12 @@
 	<a href="[https://github.com/qnscholar/zotero-if/releases](https://github.com/squirrelRao/zotero-lingocloud/releases)">
 </p>
 
-# 彩云小译Zotero-PDF翻译插件
+# 彩云小译zotero-pdf翻译插件
 
 最新版本下载：<a href="https://github.com/squirrelRao/zotero-lingocloud/releases">Zotero小译插件</a>
 
 ### 使用说明
-1. 在Zotero首选项面板 - 彩云小译面板， 填入彩云小译个人账户ID
+1. 在zotero首选项面板 - 彩云小译面板， 填入彩云小译个人账户ID
    
  <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/18d70e35-fe1a-4684-92e9-7714ed21ab7e" width="500">
 
@@ -23,7 +23,7 @@
  <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/33eeaf16-ffc9-4429-aaa2-763299086c02" width="500">
 
 ### 安装说明
-Zotero附件组件页选择小译插件安装文件lingocloud-translate.xpi即可
+zotero附件组件页选择小译插件安装文件lingocloud-translate.xpi即可
 
 <img src="https://github.com/squirrelRao/zotero-lingocloud/assets/528419/afe76059-36aa-4a69-9c4f-084df81910d2" width="500">
 <br>
